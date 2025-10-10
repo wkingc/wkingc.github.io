@@ -1,0 +1,1 @@
+This is the GitHub Pages repository for <www.kingcopeland.com>.
